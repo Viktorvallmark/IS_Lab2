@@ -1,0 +1,156 @@
+
+AVRASM ver. 2.2.8  M:\DA215A\IS_Lab2\lab2\lab2\lab2.asm Thu Nov 28 12:12:59 2024
+
+[builtin](2): Including file 'C:/7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32U4def.inc'
+M:\DA215A\IS_Lab2\lab2\lab2\lab2.asm(25): Including file 'M:\DA215A\IS_Lab2\lab2\lab2\delay.inc'
+M:\DA215A\IS_Lab2\lab2\lab2\lab2.asm(26): Including file 'M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc'
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(54): error: Missing macro argument: @0
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lab2.asm(121): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(54): error: Missing macro argument: @0
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lab2.asm(121): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(54): error: Missing macro argument: @0
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lab2.asm(121): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(54): error: Missing macro argument: @0
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lab2.asm(121): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(54): error: Missing macro argument: @0
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lab2.asm(121): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(54): error: Missing macro argument: @0
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lab2.asm(121): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(54): error: Missing macro argument: @0
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lab2.asm(121): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(54): error: Missing macro argument: @0
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lab2.asm(121): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(54): error: Missing macro argument: @0
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lab2.asm(121): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(54): error: Missing macro argument: @0
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lab2.asm(121): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(54): error: Missing macro argument: @0
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lab2.asm(121): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(54): error: Missing macro argument: @0
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lab2.asm(121): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(54): error: Missing macro argument: @0
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lab2.asm(121): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(54): error: Missing macro argument: @0
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lab2.asm(121): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(54): error: Missing macro argument: @0
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lcd.inc(55): macro 'LCD_WRITE_CHAR' called here
+M:\DA215A\IS_Lab2\lab2\lab2\lab2.asm(121): macro 'LCD_WRITE_CHAR' called here
